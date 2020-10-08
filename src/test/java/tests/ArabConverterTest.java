@@ -1,3 +1,5 @@
+package tests;
+
 import com.xsa.calculator.ArabConverter;
 import org.junit.jupiter.api.Test;
 

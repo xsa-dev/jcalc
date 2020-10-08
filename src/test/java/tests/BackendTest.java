@@ -1,3 +1,5 @@
+package tests;
+
 import com.xsa.calculator.Backend;
 import org.junit.jupiter.api.Test;
 
